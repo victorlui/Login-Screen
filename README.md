@@ -1,7 +1,7 @@
 # Login Screen Restaurant
 
 # Opening screen
-<img src="assets/1.jpg" height="250" width="250">
+<img src="assets/1.jpg" height="350" width="150">
 
 
 # Login screen
