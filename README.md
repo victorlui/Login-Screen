@@ -1,7 +1,8 @@
 # Login Screen Restaurant
 
 # Opening screen
-![](assets/1.jpg)
+<img src="assets/1.jpg" height="150" width="150">
+
 
 # Login screen
 ![](assets/2.jpg)
