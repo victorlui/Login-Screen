@@ -5,7 +5,7 @@
 
 
 # Login screen
-![](assets/2.jpg)
+<img src="assets/2.jpg" height="350" width="180">
 
 # Register screen
-![](assets/3.jpg)
+<img src="assets/3.jpg" height="350" width="180">
